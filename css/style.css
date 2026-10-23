@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: rgb(30, 97, 97);
+}
+
+h2 {
+  color: darkblue;
+  font-size: 26px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+}
+
+li {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: darkblue;
+  color: white;
+  padding: 8px;
+  border: 1px solid black;
+}
+
+td {
+  padding: 8px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+input {
+  width: 200px;
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
